@@ -7,6 +7,7 @@ __pycache__/
 *.so
 
 /Section-04-ml-projects/data/
+/data/
 
 # Distribution / packaging
 .Python
